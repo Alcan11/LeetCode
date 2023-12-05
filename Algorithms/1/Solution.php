@@ -1,3 +1,4 @@
+<?php
 class Solution {    
     /**
      * @param Integer[] $nums
@@ -30,3 +31,4 @@ $nums = array(2,7,11,15);
 $target = 9;
 $solution = new Solution();
 $result = $solution->twoSum($nums,$target);
+?>
