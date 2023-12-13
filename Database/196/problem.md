@@ -33,7 +33,7 @@ The result format is in the following example.
 >| 2  | bob@example.com  |
 >| 3  | john@example.com |
 >
-**Output:** 
+>**Output:** 
 >| id | email            |
 >|----|------------------|
 >| 1  | john@example.com |
