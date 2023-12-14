@@ -5,9 +5,8 @@
 var isPalindrome = function(x) {
     var array = x.toString().split("");
     let invertArray = array.reverse();
-    let newNumber = invertArray.join("");
-    console.log(newNumber)
-    if(newNumber == x){
+    let reverseNumber = invertArray.join("");
+    if(reverseNumber == x){
         return true;
     } else {
         return false;
