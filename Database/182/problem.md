@@ -1,6 +1,6 @@
 # 182. Duplicate Emails
 
-##Table: ```Person```
+## Table: ```Person```
 
 >| Column Name | Type    |
 >|-------------|---------|
