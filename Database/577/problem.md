@@ -50,10 +50,9 @@ The result format is in the following example.
 >| 2     | 500   |
 >| 4     | 2000  |
 >
->**Output: **
->+------+-------+
+>**Output:**
 >| name | bonus |
->+------+-------+
+>|------|-------|
 >| Brad | null  |
 >| John | null  |
 >| Dan  | 500   |
