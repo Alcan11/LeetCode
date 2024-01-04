@@ -6,8 +6,7 @@ class Solution {
         for (char ch : s.toCharArray()) {
             if (ch == '(' || ch == '[' || ch == '{') {
                 stack.push(ch);
-						} else {
-							
+	    } else {			
                 if (stack.isEmpty()) {
                     return false;
                 }
