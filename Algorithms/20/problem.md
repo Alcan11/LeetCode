@@ -10,20 +10,20 @@ An input string is valid if:
 ### Example 1:
 
 **Input:** ```s = "()"```
-**Output:** ```true```
+**Output:** ```true```<br>
 
 ### Example 2:
 
 **Input:** ```s = "()[]{}"```
-**Output:** ```true```
+**Output:** ```true```<br>
 
 ### Example 3:
 
 **Input:** ```s = "(]"```
-**Output:** ```false```
+**Output:** ```false```<br>
  
 
-**Constraints:**
+### Constraints:
 
 * ```1 <= s.length <= 104```
 * ```s``` consists of parentheses only ```'()[]{}'```.
