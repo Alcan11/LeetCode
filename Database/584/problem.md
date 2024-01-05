@@ -41,4 +41,3 @@ The result format is in the following example.
 >| Jane |
 >| Bill |
 >| Zack |
->+------+
