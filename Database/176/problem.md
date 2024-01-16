@@ -17,7 +17,7 @@ The result format is in the following example.
  
 ### Example 1:
 
->**Input**: 
+>**Input**:<br>
 >Employee table:
 >| id | salary |
 >|----|--------|
@@ -25,7 +25,7 @@ The result format is in the following example.
 >| 2  | 200    |
 >| 3  | 300    |
 >
->**Output**: 
+>**Output**:
 >| SecondHighestSalary |
 >|---------------------|
 >| 200                 |
@@ -33,9 +33,8 @@ The result format is in the following example.
 
 ### Example 2:
 
->**Input:**
+>**Input:**<br>
 >Employee table:
->+----+--------+
 >| id | salary |
 >|----|--------|
 >| 1  | 100    |
