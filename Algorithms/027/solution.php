@@ -1,3 +1,4 @@
+<?php
 class Solution {
 
     /**
@@ -13,3 +14,4 @@ class Solution {
         }
     }
 }
+?>
